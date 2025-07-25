@@ -4,6 +4,10 @@
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-v1.13+-red.svg?logo=PyTorch&style=for-the-badge" /></a>
 <a href="#"><img src="https://img.shields.io/badge/python-v3.6+-blue.svg?logo=python&style=for-the-badge" /></a>
 
+
+include a `patch` for original unet. see [readme for patch](./patch/readme.txt)
+
+
 ![input and output for a random image in the test dataset](https://i.imgur.com/GD8FcB7.png)
 
 
